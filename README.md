@@ -1,5 +1,5 @@
 # plusコマンド
-![test](https://github.com/abe/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/Nitrio-o/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## 必要なソフトウェア
 * Python
